@@ -5,3 +5,13 @@ type something
 this is my story
 
 i'm sooyong
+
+학교 정문에서 나와서
+
+버스정류장을 보고
+
+친구들이 정류장에서 버스를 기다리고
+
+길을 따라서 나무가 심어져있고
+
+신호등이 보인다.
